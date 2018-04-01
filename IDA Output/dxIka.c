@@ -408,13 +408,13 @@ char *off_412EA0[6] =
   "Pmd\\Quake.pmd",
   "Pmd\\Tidepool.pmd"
 }; // weak
-char aGbgcgugGkgeb_0[27] = "ƒƒCƒ“ƒ{ƒŠƒ…[ƒ€iƒhƒ‰ƒ€j"; // weak
+char aGbgcgugGkgeb_0[27] = "ãƒ¡ã‚¤ãƒ³ãƒœãƒªãƒ¥ãƒ¼ãƒ ï¼ˆãƒ‰ãƒ©ãƒ ï¼‰"; // weak
 _UNKNOWN unk_412F6C; // weak
 _UNKNOWN unk_412F80; // weak
-char aGbgcgugGkgebGa[29] = "ƒƒCƒ“ƒ{ƒŠƒ…[ƒ€iƒƒƒfƒBj"; // weak
-char aGGkgebGaokvV[17] = "ƒ{ƒŠƒ…[ƒ€OK‚Å‚·"; // weak
-char aGtgfbGhbighgig[19] = "ƒtƒF[ƒhiƒhƒ‰ƒ€j"; // weak
-char aGtgfbGhbigbgng[21] = "ƒtƒF[ƒhiƒƒƒfƒBj"; // weak
+char aGbgcgugGkgebGa[29] = "ãƒ¡ã‚¤ãƒ³ãƒœãƒªãƒ¥ãƒ¼ãƒ ï¼ˆãƒ¡ãƒ­ãƒ‡ã‚£ï¼‰"; // weak
+char aGGkgebGaokvV[17] = "ãƒœãƒªãƒ¥ãƒ¼ãƒ OKã§ã™"; // weak
+char aGtgfbGhbighgig[19] = "ãƒ•ã‚§ãƒ¼ãƒ‰ï¼ˆãƒ‰ãƒ©ãƒ ï¼‰"; // weak
+char aGtgfbGhbigbgng[21] = "ãƒ•ã‚§ãƒ¼ãƒ‰ï¼ˆãƒ¡ãƒ­ãƒ‡ã‚£ï¼‰"; // weak
 int (__cdecl *off_412FF0[2])(int) = { &sub_40A100, &sub_40A4F0 }; // weak
 __int16 word_412FFC[] = { 4 }; // weak
 __int16 word_41300C[] = { 8 }; // weak
@@ -430,7 +430,7 @@ CHAR Type[] = "WAVE"; // idb
 CHAR Caption[] = "Ikachan"; // idb
 char *off_413278 = &unk_41327C; // idb
 char a04d02d02dByPix[35] = " - %04d/%02d/%02d\r\nBy Pixel       "; // weak
-CHAR Text[13] = "ƒTƒEƒ“ƒh‚Ì‰Š"; // idb
+CHAR Text[13] = "ã‚µã‚¦ãƒ³ãƒ‰ã®åˆ"; // idb
 char aPbmLoading2_pb[17] = "Pbm\\Loading2.pbm"; // weak
 CHAR CursorName[] = "PIXELCURSOR"; // idb
 CHAR TableName[] = "ACCEL"; // idb
@@ -438,7 +438,7 @@ char aMenu_main[10] = "MENU_MAIN"; // weak
 CHAR name[] = "0"; // idb
 CHAR TemplateName[] = "DLG_START"; // idb
 CHAR Name[] = "Ikachan"; // idb
-CHAR aGGkgebGarTsv[15] = "ƒ{ƒŠƒ…[ƒ€İ’è‚"; // idb
+CHAR aGGkgebGarTsv[15] = "ãƒœãƒªãƒ¥ãƒ¼ãƒ è¨­å®š"; // idb
 char byte_413BE0 = '\0'; // weak
 __int16 word_413BE2 = 0; // weak
 __int16 word_413BE4 = 0; // weak
